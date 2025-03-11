@@ -392,7 +392,7 @@ Run `python download-model.py --help` to see all the options.
 
 ## Google Colab notebook
 
-https://colab.research.google.com/github/oobabooga/text-generation-webui/blob/main/Colab-TextGen-GPU.ipynb
+https://colab.research.google.com/github/Borov666/text-generation-webui/blob/main/Colab-TextGen-GPU.ipynb
 
 ## Acknowledgment
 
